@@ -20,3 +20,10 @@ Manufacturing workflows
    management/configure_manufacturing_product
    management/split_merge
    management/work_order_dependencies
+<<<<<<< HEAD
+||||||| parent of 4e2a3fbae (temp)
+   management/two_step_manufacturing
+=======
+   management/two_step_manufacturing
+   management/one_step_manufacturing
+>>>>>>> 4e2a3fbae (temp)
